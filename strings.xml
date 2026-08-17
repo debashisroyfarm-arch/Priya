@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Priya</string>
+    <string name="priya_title">Priya - প্রিয়া</string>
+    <string name="priya_subtitle">তোমার আদরের বউ ও অর্ধাঙ্গিনী 💍</string>
+    <string name="priya_status_online">Online • সবসময় তোমার পাশে</string>
+    <string name="chat_hint">বউকে কিছু ভালোবাসার কথা বলো…</string>
+    <string name="voice_call_btn">Voice Call</string>
+    <string name="memories_btn">Moments</string>
+    <string name="send_message">Send</string>
+</resources>
